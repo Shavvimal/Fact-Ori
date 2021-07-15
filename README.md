@@ -16,3 +16,11 @@ This is the parent repo for a LAP-1 Group project: Fact-ori. This is a community
 - Users are able to be able to comment on other people’s entries.
 
 The website is deployed using Netlify for client & Heroku for server. The data sent and stored in the backend is saved within .json files. Some funcitionality on the client side has been left as future features, such as the sort by, tags and shuffle facts. 
+
+**Setup & Run**
+- Clone repo & `cd` into folder
+- `git submodule update --init`
+- `docker-compose up` or `bash _scripts/start-containers.sh`
+
+**Teardown**
+- `docker-compose down --remove-orphans --volumes` or `bash _scripts/stop-containers.sh`

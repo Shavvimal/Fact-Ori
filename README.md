@@ -15,7 +15,7 @@ This is the parent repo for a LAP-1 Group project: Fact-ori. This is a community
 - Users are able to have three emojis to choose from.
 - Users are able to be able to comment on other people’s entries.
 
-** Please note that a Mobile first design strategy has been undertaken, and due to the time contraint on the project, the mobile version is a lot more polished (although the desktop app is still made to be responsive). Please inspect and view from a mobile device for a better user experience.
+Please note that a Mobile first design strategy has been undertaken, and due to the time contraint on the project, the mobile version is a lot more polished (although the desktop app is still made to be responsive). Please inspect and view from a mobile device for a better user experience.
 
 The website is deployed using Netlify for client & Heroku for server. The data sent and stored in the backend is saved within .json files. Some funcitionality on the client side has been left as future features, such as the sort by, tags and shuffle facts. 
 

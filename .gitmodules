@@ -1,6 +1,6 @@
 [submodule "Fact-Ori_Client"]
 	path = Fact-Ori_Client
-	url = https://github.com/Shavvimal/Fact-Ori_Client
+	url = ../Fact-Ori_Client
 [submodule "Fact-Ori_Server"]
 	path = Fact-Ori_Server
-	url = https://github.com/Shavvimal/Fact-Ori_Server
+	url = ../Fact-Ori_Server

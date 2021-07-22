@@ -17,7 +17,7 @@ This is the parent repo for a LAP-1 Group project: Fact-ori. This is a community
 
 Please note that a Mobile first design strategy has been undertaken, and due to the time contraint on the project, the mobile version is a lot more polished (although the desktop app is still made to be responsive). Please inspect and view from a mobile device for a better user experience.
 
-The website is deployed [here](https://fact-ori.netlify.app) using Netlify for client & Heroku for server. The data sent and stored in the backend is saved within .json files. Some funcitionality on the client side has been left as future features, such as the sort by, tags and shuffle facts. 
+The website is deployed [here](https://fact-ory.netlify.app/) using Netlify for client & Heroku for server. The data sent and stored in the backend is saved within .json files. Some funcitionality on the client side has been left as future features, such as the sort by, tags and shuffle facts. 
 
 To docker compose: 
 
